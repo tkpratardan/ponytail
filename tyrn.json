@@ -6,7 +6,7 @@
       "kind": "plugin",
       "id": "ponytail",
       "name": "Ponytail",
-      "version": "5.3.2",
+      "version": "5.3.3",
       "description": "Lazy senior dev mode. Forces the simplest, shortest solution that actually works: YAGNI, stdlib first, no unrequested abstractions.",
       "author": "Dietrich Gebert",
       "homepage": "https://ponytail.dev",
